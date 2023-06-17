@@ -16,7 +16,7 @@ Check out [Open Ephys](https://open-ephys.org) as we do development and producti
 - [DeepLabCut](https://deeplabcut.github.io/DeepLabCut/README.html)
 
 ### Why that username tho?
-Well... back in Intro to CS for Biologists I did that "00learn what version control is and create your first repository" lesson. I didn't know it would stick with me forever. I was Chuckles on many sites and here I was ChucklesOnGitHub (probably because Chuckles was taken). Testimony to the fact that you can do cool stuff without knowing everything... just get started! The constant reminder is humbling.
+Well... back in Intro to CS for Biologists I did that "learn what version control is and create your first repository" lesson. I didn't know it would stick with me forever. I was Chuckles on many sites and here I was ChucklesOnGitHub (probably because Chuckles was taken). Testimony to the fact that you can do cool stuff without knowing everything... just get started! The constant reminder is humbling.
 
 <!--
 **ChucklesOnGitHub/ChucklesOnGitHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
