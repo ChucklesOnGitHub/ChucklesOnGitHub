@@ -1,7 +1,7 @@
 ## What do I do?
 I provide **trainining** and **technical support** for researchers on **open source tools** for **behavioral neuroscience**.
 
-I love crafting **interactive activities** to demo tools and concepts for workshops and conferences.
+I love crafting **interactive activities** to demo tools and concepts for workshops and scientific events.
 
 I strive to disseminate knowledge **inclusively** and **accessibly**, focusing on **new users** and **language barriers**.
 
