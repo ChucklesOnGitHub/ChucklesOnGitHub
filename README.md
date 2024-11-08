@@ -1,5 +1,5 @@
 ## What do I do?
-I provide **trainining** and **technical support** for researchers on **open source tools** for **behavioral neuroscience**.
+I provide **training** and **technical support** for researchers on **open source tools** for **behavioral neuroscience**.
 
 I love crafting **interactive activities** to demo tools and concepts for workshops and scientific events.
 
@@ -8,9 +8,11 @@ I strive to disseminate knowledge **inclusively** and **accessibly**, focusing o
 ### What tools?
 Hardware and software for **electrophysiology** and **neuronal imaging** acquisition in freely behaving animals, as well as **behavioral recording and control**.
 
-Check out [Open Ephys](https://open-ephys.org) as we do development and production as well.
+Check out [Open Ephys](https://open-ephys.org) to see what the team develops and produces.
 
 ### Things I have been learning and teaching others about recently:
+- [ONIX](https://open-ephys.github.io/onix-docs)
+- [Harp](https://harp-tech.org/)
 - [UCLA Miniscopes](http://miniscope.org/)
 - [Bonsai](https://bonsai-rx.org/)
 - [DeepLabCut](https://deeplabcut.github.io/DeepLabCut/README.html)
